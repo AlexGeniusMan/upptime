@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/devgang.ru",
     "slug": "dev-gang",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 905,
+    "timeDay": 883,
     "timeWeek": 863,
     "timeMonth": 863,
     "timeYear": 863,
-    "dailyMinutesDown": {
-      "2021-07-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Salary (DevGang)",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/salary.devgang.ru",
     "slug": "salary-dev-gang",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 916,
-    "timeDay": 833,
-    "timeWeek": 916,
-    "timeMonth": 916,
-    "timeYear": 916,
-    "dailyMinutesDown": {
-      "2021-07-20": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 878,
+    "timeDay": 704,
+    "timeWeek": 878,
+    "timeMonth": 878,
+    "timeYear": 878,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Salary (RTUITLab)",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/salary.rtuitlab.dev",
     "slug": "salary-rtuit-lab",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 776,
-    "timeDay": 859,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
-    "dailyMinutesDown": {
-      "2021-07-20": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 766,
+    "timeDay": 778,
+    "timeWeek": 766,
+    "timeMonth": 766,
+    "timeYear": 766,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitReview",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 925,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 810,
+    "timeDay": 838,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   }
 ]
