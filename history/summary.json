@@ -10,30 +10,34 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 778,
-    "timeWeek": 895,
-    "timeMonth": 876,
-    "timeYear": 876,
-    "dailyMinutesDown": {}
+    "time": 958,
+    "timeDay": 2440,
+    "timeWeek": 1115,
+    "timeMonth": 958,
+    "timeYear": 958,
+    "dailyMinutesDown": {
+      "2021-07-31": 0
+    }
   },
   {
     "name": "Salary (DevGang)",
     "url": "https://salary.devgang.ru/",
     "icon": "https://favicons.githubusercontent.com/salary.devgang.ru",
     "slug": "salary-dev-gang",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
-    "timeDay": 755,
-    "timeWeek": 763,
+    "timeDay": 0,
+    "timeWeek": 739,
     "timeMonth": 814,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 0
+    }
   },
   {
     "name": "Salary (RTUITLab)",
@@ -46,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 694,
+    "time": 764,
+    "timeDay": 697,
     "timeWeek": 774,
-    "timeMonth": 768,
-    "timeYear": 768,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 910,
-    "timeWeek": 812,
-    "timeMonth": 834,
-    "timeYear": 834,
+    "time": 814,
+    "timeDay": 489,
+    "timeWeek": 750,
+    "timeMonth": 814,
+    "timeYear": 814,
     "dailyMinutesDown": {}
   }
 ]
