@@ -4,19 +4,19 @@
     "url": "https://devgang.ru/",
     "icon": "https://favicons.githubusercontent.com/devgang.ru",
     "slug": "dev-gang",
-    "status": "up",
-    "uptime": "38.90%",
+    "status": "down",
+    "uptime": "38.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.66%",
-    "uptimeYear": "38.90%",
+    "uptimeMonth": "15.77%",
+    "uptimeYear": "38.36%",
     "time": 930,
     "timeDay": 907,
     "timeWeek": 897,
     "timeMonth": 956,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2021-08-26": 24,
+      "2021-08-26": 851,
       "2021-08-25": 1440,
       "2021-08-24": 1440,
       "2021-08-23": 1440,
@@ -50,10 +50,10 @@
     "url": "https://salary.devgang.ru/",
     "icon": "https://favicons.githubusercontent.com/salary.devgang.ru",
     "slug": "salary-dev-gang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 840,
@@ -62,6 +62,7 @@
     "timeMonth": 842,
     "timeYear": 840,
     "dailyMinutesDown": {
+      "2021-08-26": 1,
       "2021-08-16": 23,
       "2021-07-31": 15
     }
@@ -72,11 +73,11 @@
     "icon": "https://favicons.githubusercontent.com/salary.rtuitlab.dev",
     "slug": "salary-rtuit-lab",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 764,
     "timeDay": 721,
     "timeWeek": 843,
@@ -91,9 +92,9 @@
     "url": "https://git-review.devgang.ru/",
     "icon": "https://favicons.githubusercontent.com/git-review.devgang.ru",
     "slug": "git-review",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -102,6 +103,8 @@
     "timeWeek": 829,
     "timeMonth": 827,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-26": 0
+    }
   }
 ]
