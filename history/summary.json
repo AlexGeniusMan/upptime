@@ -1,25 +1,5 @@
 [
   {
-    "name": "DG",
-    "url": "https://devgang.ru/",
-    "icon": "https://favicons.githubusercontent.com/devgang.ru",
-    "slug": "dg",
-    "status": "down",
-    "uptime": "14.12%",
-    "uptimeDay": "14.12%",
-    "uptimeWeek": "14.12%",
-    "uptimeMonth": "14.12%",
-    "uptimeYear": "14.12%",
-    "time": 925,
-    "timeDay": 925,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
-    "dailyMinutesDown": {
-      "2021-09-08": 0
-    }
-  },
-  {
     "name": "Artway-Test (DG)",
     "url": "https://amt.devgang.ru/",
     "icon": "https://favicons.githubusercontent.com/amt.devgang.ru",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 756,
-    "timeWeek": 756,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 761,
-    "timeWeek": 761,
-    "timeMonth": 761,
-    "timeYear": 761,
+    "time": 826,
+    "timeDay": 826,
+    "timeWeek": 826,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 712,
-    "timeDay": 712,
-    "timeWeek": 712,
-    "timeMonth": 712,
-    "timeYear": 712,
+    "time": 715,
+    "timeDay": 715,
+    "timeWeek": 715,
+    "timeMonth": 715,
+    "timeYear": 715,
     "dailyMinutesDown": {}
   }
 ]
