@@ -3,13 +3,13 @@ owner: AlexGeniusMan # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: DevGang
+  - name: DG
     url: https://devgang.ru/
-  - name: ArtWay-Test (DevGang)
+  - name: Artway-Test (DG)
     url: https://amt.devgang.ru/
-  - name: ArtWay (DevGang)
+  - name: Artway (DG)
     url: https://artway.devgang.ru/
-  - name: Salary (RTUITLab)
+  - name: Salary (Lab)
     url: https://salary.rtuitlab.dev/
 
 status-website:
