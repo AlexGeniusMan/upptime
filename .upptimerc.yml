@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: DevGang
     url: https://devgang.ru/
-  - name: Salary (DevGang)
-    url: https://salary.devgang.ru/
+  - name: ArtWay-Test (DevGang)
+    url: https://amt.devgang.ru/
+  - name: ArtWay (DevGang)
+    url: https://artway.devgang.ru/
   - name: Salary (RTUITLab)
     url: https://salary.rtuitlab.dev/
-  - name: GitReview
-    url: https://git-review.devgang.ru/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
