@@ -40,7 +40,7 @@
     "url": "https://salary.rtuitlab.dev/",
     "icon": "https://favicons.githubusercontent.com/salary.rtuitlab.dev",
     "slug": "salary-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   }
 ]
